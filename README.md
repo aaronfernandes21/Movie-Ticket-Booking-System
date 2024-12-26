@@ -2,7 +2,7 @@
 
 Welcome to the **Movie Ticket Booking System**! This is a simple movie ticket booking application built using **Node.js**. The application allows users to view available movies, book tickets, and see seating availability.
 
-## Features
+## Features : 
 
 - **Movie Listing**: Displays a list of movies with their showtimes and available seats.
 - **Ticket Booking**: Allows users to book tickets for their chosen movie.
